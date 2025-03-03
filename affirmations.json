@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://raw.githubusercontent.com/andrzejka-dev/Affirmations/refs/heads/main/affirmation1.png"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://raw.githubusercontent.com/andrzejka-dev/Affirmations/refs/heads/main/Affirmation2.png"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://raw.githubusercontent.com/andrzejka-dev/Affirmations/refs/heads/main/Affirmation3.png"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://github.com/andrzejka-dev/Affirmations/blob/main/Affirmation4.png?raw=true"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://github.com/andrzejka-dev/Affirmations/blob/main/Affirmation5.png?raw=true"
+  }
+]
